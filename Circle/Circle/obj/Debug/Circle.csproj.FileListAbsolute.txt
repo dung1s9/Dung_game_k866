@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\Admin\source\repos\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\Admin\source\repos\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\Admin\source\repos\Circle\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Circle\Circle\obj\Debug\Circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\Admin\source\repos\Circle\Circle\obj\Debug\Circle.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\bin\Debug\de mo vong lap.exe.config
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\bin\Debug\de mo vong lap.exe
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\bin\Debug\de mo vong lap.pdb
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\obj\Debug\de mo vong lap.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\obj\Debug\de mo vong lap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\obj\Debug\de mo vong lap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\obj\Debug\de mo vong lap.exe
+C:\Users\Admin\source\repos\de mo vong lap\de mo vong lap\obj\Debug\de mo vong lap.pdb

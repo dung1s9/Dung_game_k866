@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\bin\Debug\tính điểm đầu vào.exe.config
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\bin\Debug\tính điểm đầu vào.exe
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\bin\Debug\tính điểm đầu vào.pdb
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\obj\Debug\tính điểm đầu vào.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\obj\Debug\tính điểm đầu vào.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\obj\Debug\tính điểm đầu vào.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\obj\Debug\tính điểm đầu vào.exe
+C:\Users\Admin\source\repos\tính điểm đầu vào\tính điểm đầu vào\obj\Debug\tính điểm đầu vào.pdb

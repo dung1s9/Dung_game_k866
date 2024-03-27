@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\tinhs\tinhs\bin\Debug\tinhs.exe.config
+C:\Users\Admin\source\repos\tinhs\tinhs\bin\Debug\tinhs.exe
+C:\Users\Admin\source\repos\tinhs\tinhs\bin\Debug\tinhs.pdb
+C:\Users\Admin\source\repos\tinhs\tinhs\obj\Debug\tinhs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\tinhs\tinhs\obj\Debug\tinhs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\tinhs\tinhs\obj\Debug\tinhs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tinhs\tinhs\obj\Debug\tinhs.exe
+C:\Users\Admin\source\repos\tinhs\tinhs\obj\Debug\tinhs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\bin\Debug\Phuong_Trinh_Bac_Hai.exe.config
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\bin\Debug\Phuong_Trinh_Bac_Hai.exe
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\bin\Debug\Phuong_Trinh_Bac_Hai.pdb
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.Form1.resources
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.Properties.Resources.resources
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.exe
+C:\Users\Admin\source\repos\Phuong_Trinh_Bac_Hai\Phuong_Trinh_Bac_Hai\obj\Debug\Phuong_Trinh_Bac_Hai.pdb
