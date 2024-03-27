@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\bin\Debug\kiem tra tinh dung sai.exe.config
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\bin\Debug\kiem tra tinh dung sai.exe
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\bin\Debug\kiem tra tinh dung sai.pdb
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\obj\Debug\kiem tra tinh dung sai.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\obj\Debug\kiem tra tinh dung sai.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\obj\Debug\kiem tra tinh dung sai.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\obj\Debug\kiem tra tinh dung sai.exe
-C:\Users\Admin\source\repos\kiem tra tinh dung sai\kiem tra tinh dung sai\obj\Debug\kiem tra tinh dung sai.pdb
