@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\bin\Debug\di tuoi bo phieu.exe.config
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\bin\Debug\di tuoi bo phieu.exe
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\bin\Debug\di tuoi bo phieu.pdb
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\obj\Debug\di tuoi bo phieu.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\obj\Debug\di tuoi bo phieu.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\obj\Debug\di tuoi bo phieu.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\obj\Debug\di tuoi bo phieu.exe
-C:\Users\Admin\source\repos\di tuoi bo phieu\di tuoi bo phieu\obj\Debug\di tuoi bo phieu.pdb
