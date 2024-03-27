@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\obj\Debug\số_dương_hay_số_âm.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\obj\Debug\số_dương_hay_số_âm.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\obj\Debug\số_dương_hay_số_âm.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\bin\Debug\số_dương_hay_số_âm.exe.config
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\bin\Debug\số_dương_hay_số_âm.exe
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\bin\Debug\số_dương_hay_số_âm.pdb
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\obj\Debug\số_dương_hay_số_âm.exe
-C:\Users\Admin\source\repos\số_dương_hay_số_âm\số_dương_hay_số_âm\obj\Debug\số_dương_hay_số_âm.pdb
