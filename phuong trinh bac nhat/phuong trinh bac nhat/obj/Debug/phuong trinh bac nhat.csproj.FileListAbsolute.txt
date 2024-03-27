@@ -1,3 +1,0 @@
-C:\Users\Admin\source\repos\phuong trinh bac nhat\phuong trinh bac nhat\obj\Debug\phuong trinh bac nhat.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\phuong trinh bac nhat\phuong trinh bac nhat\obj\Debug\phuong trinh bac nhat.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\phuong trinh bac nhat\phuong trinh bac nhat\obj\Debug\phuong trinh bac nhat.csproj.CoreCompileInputs.cache
