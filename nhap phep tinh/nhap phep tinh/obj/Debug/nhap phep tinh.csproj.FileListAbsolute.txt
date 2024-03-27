@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\obj\Debug\nhap phep tinh.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\obj\Debug\nhap phep tinh.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\obj\Debug\nhap phep tinh.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\bin\Debug\nhap phep tinh.exe.config
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\bin\Debug\nhap phep tinh.exe
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\bin\Debug\nhap phep tinh.pdb
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\obj\Debug\nhap phep tinh.exe
-C:\Users\Admin\source\repos\nhap phep tinh\nhap phep tinh\obj\Debug\nhap phep tinh.pdb
