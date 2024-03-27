@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\bin\Debug\phần lặp và điều kiện.exe.config
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\bin\Debug\phần lặp và điều kiện.exe
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\bin\Debug\phần lặp và điều kiện.pdb
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\obj\Debug\phần lặp và điều kiện.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\obj\Debug\phần lặp và điều kiện.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\obj\Debug\phần lặp và điều kiện.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\obj\Debug\phần lặp và điều kiện.exe
-C:\Users\Admin\source\repos\phần lặp và điều kiện\phần lặp và điều kiện\obj\Debug\phần lặp và điều kiện.pdb
