@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\obj\Debug\Tim nam nhuan.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\obj\Debug\Tim nam nhuan.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\obj\Debug\Tim nam nhuan.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\bin\Debug\Tim nam nhuan.exe.config
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\bin\Debug\Tim nam nhuan.exe
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\bin\Debug\Tim nam nhuan.pdb
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\obj\Debug\Tim nam nhuan.exe
-C:\Users\Admin\source\repos\Tim nam nhuan\Tim nam nhuan\obj\Debug\Tim nam nhuan.pdb
