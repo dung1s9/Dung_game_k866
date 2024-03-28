@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="admin.css">
+    <title>Form admin website bán máy tính</title>
+</head>
+<body>
+    <div class="container">
+        <aside>
+            <div class="top"> 
+                <div class="logo">
+                    <img src="images/designlogo.png" alt="logo">
+                </div>
+                <div class="close" id="close-btn">
+                    <span class="material-symbols-sharp">close</span>
+                </div>
+            </div>
+
+            <div class="slidebar">
+                <a href="account.html">
+                    <span class="material-symbols-sharp">person</span>
+                    <h3>Account</h3>
+                </a>
+                <a href="admin.html">
+                    <span class="material-symbols-sharp">order_approve</span>
+                    <h3>Order</h3>
+                    <span class="order-count">132</span>
+                </a>
+                <a href="products.html"  class="active">
+                    <span class="material-symbols-sharp"> inventory</span>
+                    <h3>Products</h3>
+                </a>
+                <a href="categoty.html">
+                    <span class="material-symbols-sharp">category</span>
+                    <h3>Categoryes</h3>
+                </a>
+                <a href="#">
+                    <span class="material-symbols-sharp">style</span>
+                    <h3>Giftcode</h3>
+                </a>
+                <a href="#">
+                    <span class="material-symbols-sharp">chat</span>
+                    <h3>Comment</h3>
+                </a>
+                <a href="#">
+                    <span class="material-symbols-sharp">image</span>
+                    <h3>Image</h3>
+                </a>
+                <a href="brand.html">
+                    <span class="material-symbols-sharp">branding_watermark</span>
+                    <h3>Brand</h3>
+                </a>
+                <a href="#">
+                    <span class="material-symbols-sharp">format_list_numbered</span>
+                    <h3>Type Product</h3>
+                </a>
+                <a href="#">
+                    <span class="material-symbols-sharp"> shopping_cart </span>
+                    <h3>Cart</h3>
+                </a>
+                <a href="#">
+                    <span class="material-symbols-sharp">logout</span>
+                    <h3>Logout</h3>
+                </a>
+            </div>
+        </aside>
+
+        <main>
+            <h1>PRODUCTS</h1>
+
+            <div class="date">
+                <input type="date">
+            </div>
+
+            <div class="insights">
+                <div class="sales">
+                    <span class="material-symbols-sharp">analytics</span>
+                    <div class="middle">
+                        <div class="left">
+                            <h3>Total Sales</h3>
+                            <h1>$11.854</h1>
+                        </div>
+                        <div class="progress">
+                            <svg>
+                                <circle cx='38' cy='38' r='36'></circle>
+                            </svg>
+                            <div class="number">
+                                <p>61%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <small class="text-muted"> Last 24 Hours</small>
+                </div>
+
+                <div class="expenses">
+                    <span class="material-symbols-sharp">bar_chart</span>
+                    <div class="middle">
+                        <div class="left">
+                            <h3>Total Expenses</h3>
+                            <h1>$13.464</h1>
+                        </div>
+                        <div class="progress">
+                            <svg>
+                                <circle cx='38' cy='38' r='36'></circle>
+                            </svg>
+                            <div class="number">
+                                <p>63%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <small class="text-muted"> Last 24 Hours</small>
+                </div>
+
+                <div class="income">
+                    <span class="material-symbols-sharp">stacked_line_chart</span>
+                    <div class="middle">
+                        <div class="left">
+                            <h3>Total Income</h3>
+                            <h1>$20.374</h1>
+                        </div>
+                        <div class="progress">
+                            <svg>
+                                <circle cx='38' cy='38' r='36'></circle>
+                            </svg>
+                            <div class="number">
+                                <p>42%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <small class="text-muted"> Last 24 Hours</small>
+                </div>
+            </div>
+            <div class="recent-order">
+                <div class="DDD">
+                    <h2 style="float: left;">Recent Products</h2>
+                    <div class="g6 add"> <a href=""><span class="material-symbols-sharp">add</span></a></div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>NAME</th>
+                            <th>DESCRIPTION</th>
+                            <th>IMAGE</th>
+                            <th>COST</th>
+                            <th>ID Category</th>
+                            <th>ID Brand</th>
+                            <th>CPU</th>
+                            <th>GPU</th>
+                            <th>RAM</th>
+                            <th>STORAGE</th>
+                            <th>SCREEN SIZE</th>
+                            <th>WARRANTY PERIOD</th>
+                            <th>OS</th>
+                            <th>KEYBOARD</th>
+                            <th>PIN</th>
+                            <th>CONNECTOR</th>
+                            <th>ID TYPEPRODUCT</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Laptop Gaming</td>
+                            <td>1</td>
+                            <td> <img src="#" alt="img"></td>
+                            <td Class="warning">Complete</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>I5</td>
+                            <td>FDH</td>
+                            <td>16GB</td>
+                            <td>512GB</td>
+                            <td>2K+</td>
+                            <td>12 Months</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>
+                                <div class="g6"> <a href="#"><span class="material-symbols-sharp">DELETE</span></a></div>
+                                <div class="g6 edit"> <a href="#"><span class="material-symbols-sharp">EDIT</span></a></div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a href="#">Show all</a>
+                <div class="col-lg-8">  
+                    <div class="card card-block card-stretch card-height">
+                        <div class="card-header d-flex justify-content-between">
+                            <div class="header-title">
+                                <h4 class="card-title"></h4>
+                            </div>                        
+                            <div class="card-header-toolbar d-flex align-items-center">
+                                <div class="dropdown">
+                                    <span class="dropdown-toggle dropdown-bg btn" id="dropdownMenuButton005"
+                                        data-toggle="dropdown">
+                                        <i class="ri-arrow-down-s-line ml-1"></i>
+                                    </span>
+                                    <div class="dropdown-menu dropdown-menu-right shadow-none"
+                                        aria-labelledby="dropdownMenuButton005">
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="card-body">
+                            <div class="d-flex flex-wrap align-items-center mt-2">
+                                <div class="d-flex align-items-center progress-order-left">
+                                    <div class="progress progress-round m-0 orange conversation-bar" data-percent="46">
+                                        <span class="progress-left">
+                                            <span class="progress-bar"></span>
+                                        </span>
+                                        <span class="progress-right">
+                                            <span class="progress-bar"></span>
+                                        </span>
+                                        <div class="progress-value text-secondary"></div>
+                                    </div>
+                                    <div class="progress-value ml-3 pr-5 border-right">
+                                        <h5></h5>
+                                        <p class="mb-0"></p>
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-center ml-5 progress-order-right">
+                                    <div class="progress progress-round m-0 primary conversation-bar" data-percent="46">
+                                        <span class="progress-left">
+                                            <span class="progress-bar"></span>
+                                        </span>
+                                        <span class="progress-right">
+                                            <span class="progress-bar"></span>
+                                        </span>
+                                        <div class="progress-value text-primary"></div>
+                                    </div>
+                                    <div class="progress-value ml-3">
+                                        <h5></h5>
+                                        <p class="mb-0">Top Products</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body pt-0">
+                            <div id="layout1-chart-5"></div>
+                        </div>
+                    </div>
+                </div>
+        </main>
+
+        <div class="right">
+            <div class="top">
+                <button id="menu-btn">
+                    <span class="material-symbols-sharp">menu</span>
+                </button>
+                <div class="theme-toggler">
+                    <span class="material-symbols-sharp active">wb_sunny</span>
+                    <span class="material-symbols-sharp">dark_mode</span>
+                </div>
+                <div class="profile">
+                    <div class="info">
+                        <p>Hey, <b>Customer</b></p>
+                        <small class="text-muted">Adimin</small>
+                    </div>
+                    <div class="profile-photo">
+                        <img src="" alt="ADD">
+                    </div>
+                </div>
+            </div>
+
+            <div class="sales-analytics">
+                <h2>Sales Analytics</h2>
+                <div class="items online">
+                    <div class="icons">
+                        <span class="material-symbols-sharp">shopping_cart</span>
+                    </div>
+                    <div class="right">
+                        <div class="info">
+                            <h3>ONLINE ORDERS</h3>
+                            <small class="text-muted">Last 24 hours</small>
+                        </div>
+                        <h5 class="success">+31%</h5>
+                        <h3>3819</h3>
+                    </div>
+                </div>
+
+                <div class="items offline">
+                    <div class="icons">
+                        <span class="material-symbols-sharp">local_mall</span>
+                    </div>
+                    <div class="right">
+                        <div class="info">
+                            <h3>OFFLINE ORDERS</h3>
+                            <small class="text-muted">Last 24 hours</small>
+                        </div>
+                        <h5 class="danger">-17%</h5>
+                        <h3>4622</h3>
+                    </div>
+                </div>
+
+                <div class="items orders">
+                    <div class="icons">
+                        <span class="material-symbols-sharp">sell</span>
+                    </div>
+                    <div class="right">
+                        <div class="info">
+                            <h3>NEW ORDER</h3>
+                            <small class="text-muted">Last 24 hours</small>
+                        </div>
+                        <h5 class="success">+41%</h5>
+                        <h3>21124</h3>
+                    </div>
+                </div>
+                <div class="items add-product">
+                    <div>
+                        <span class="material-symbols-sharp">add</span>
+                        <h3>Add products</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Backend Bundle JavaScript -->
+    <script src="assets/js/backend-bundle.min.js"></script>
+    
+    <!-- Table Treeview JavaScript -->
+    <script src="assets/js/table-treeview.js"></script>
+    
+    <!-- Chart Custom JavaScript -->
+    <script src="assets/js/customizer.js"></script>
+    
+    <!-- Chart Custom JavaScript -->
+    <script async src="assets/js/chart-custom.js"></script>
+    
+    <!-- app JavaScript -->
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
